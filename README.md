@@ -1,6 +1,10 @@
 # Ecommerce-website-Proshop
 To run an Ecommerce Website project locally, follow these steps. Note that these instructions assume you're using a typical tech stack such as Node.js, React, and MongoDB. Adjust the steps as necessary for your specific project.
 
+
+TO RUN THE PROGRAM USE "NPM RUN DEV"
+
+
  Prerequisites
 
 1. Node.js and npm**: Make sure you have Node.js and npm installed. You can download and install them from [Node.js official website](https://nodejs.org/).
